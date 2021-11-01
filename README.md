@@ -62,7 +62,7 @@ De plus, tous les patrons de conception peuvent être catégorisés selon leur i
     * [Singleton](https://refactoring.guru/fr/design-patterns/singleton)
     
 * Les **Patrons structurels** expliquent comment assembler des objets et des classes en de plus grandes structures, tout en les gardant flexibles et efficaces.
-    * [Adapteur](https://refactoring.guru/fr/design-patterns/adapter) (Adapter)
+    * [Adaptateur](https://refactoring.guru/fr/design-patterns/adapter) (Adapter)
     * [Pont](https://refactoring.guru/fr/design-patterns/bridge) (bridge)
     * [Composite](https://refactoring.guru/fr/design-patterns/composite)
     * [Façade](https://refactoring.guru/fr/design-patterns/facade) (Facade)
